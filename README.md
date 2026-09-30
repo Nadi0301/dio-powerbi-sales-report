@@ -41,7 +41,7 @@ O objetivo deste painel é apresentar métricas comerciais essenciais para apoio
 ---
 
 ## 🚀 Como Visualizar
-1. Faça o download do arquivo `sales report.pbix` localizado na pasta `/report`.
+1. Faça o download do arquivo `sales report 1.pbix` localizado na raiz do repositório.
 2. Abra o arquivo no **Power BI Desktop**.
 3. Navegue pelas páginas utilizando os botões de ação do relatório.
 
@@ -49,5 +49,5 @@ O objetivo deste painel é apresentar métricas comerciais essenciais para apoio
 
 ## 👤 Autor
 Desenvolvido por **[Nadijane de Souza]**  
-- [LinkedIn](www.linkedin.com/in/nadijane-souza-)
+- [LinkedIn](https://www.linkedin.com/in/nadijane-souza-)
 - [GitHub](https://github.com/Nadi0301/dio-powerbi-sales-report)
