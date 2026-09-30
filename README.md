@@ -12,7 +12,7 @@ O objetivo deste painel é apresentar métricas comerciais essenciais para apoio
 ## 📸 Telas do Relatório
 
 ### 🏠 Home Page
-![Home Page](images/Home )
+![Home Page](Home.png)
 
 ### 📈 Painel Principal
 ![Dashboard Principal](dashboard.png)
