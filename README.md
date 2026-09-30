@@ -49,5 +49,5 @@ O objetivo deste painel é apresentar métricas comerciais essenciais para apoio
 
 ## 👤 Autor
 Desenvolvido por **[Nadijane de Souza]**  
-- [LinkedIn](www.linkedin.com/in/nadijane-souza-)  
-- [GitHub](https://github.com/Nadi0301/dio-power-sales-report)
+- [LinkedIn](www.linkedin.com/in/nadijane-souza-)
+- [GitHub](https://github.com/Nadi0301/dio-powerbi-sales-report)
