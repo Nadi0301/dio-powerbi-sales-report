@@ -15,7 +15,7 @@ O objetivo deste painel é apresentar métricas comerciais essenciais para apoio
 ![Home Page](images/Home )
 
 ### 📈 Painel Principal
-![Dashboard Principal](images/dashboard.png)
+![Dashboard Principal](dashboard.png)
 
 ---
 
